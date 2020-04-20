@@ -1,88 +1,106 @@
 {
-  results: [
+  "results":[
     {
-      country: "Global",
-      year: 2020,
-      description: "One of the world's leading facility services companies",
-      title: "ISS Global",
-      url: "http://issworld.local/en",
+      "country":"Global",
+      "year":2020,
+      "description":
+      "One of the world's leading facility services companies",
+      "title":"ISS Global",
+      "url":"http://issworld.local/en"
     },
     {
-      country: "Global",
-      year: 2020,
-      description: "Get your questions answered",
-      title: "Support",
-      url: "http://issworld.local/en/about/internal/support",
+      "country":"Global",
+      "year":2020,
+      "description":"Get your questions answered",
+      "title":"Support",
+      "url":"http://issworld.local/en/about/internal/support"
     },
     {
-      country: "Global",
-      year: 2020,
-      description: "",
-      title: "Download whitepaper",
-      url: "http://issworld.local/en/about/contact-us/download-whitepaper",
+      "country":"Global",
+      "year":2020,
+      "description":"",
+      "title":"Download whitepaper",
+      "url":"http://issworld.local/en/about/contact-us/download-whitepaper"
     },
     {
-      country: "Global",
-      year: 2020,
-      description: "",
-      title: "",
-      url: "http://issworld.local/en/about/contact-us/contact-us",
+      "country":"Global",
+      "year":2020,
+      "description":"",
+      "title":"",
+      "url":"http://issworld.local/en/about/contact-us/contact-us"
     },
     {
-      country: "Global",
-      year: 2020,
-      description: "",
-      title: "News Item",
-      url: "/en/news/2020/03/19/news-item",
+      "country":"Global",
+      "year":2020,
+      "description":"",
+      "title":"News Item",
+      "url":"/en/news/2020/03/19/news-item"
     },
     {
-      country: "content",
-      year: 2020,
-      description: "",
-      title: "Access Denied",
-      url: "http://issworld.local/en/sitecore/shell/shared/error-pages/403",
+      "country":"content",
+      "year":2020,
+      "description":"",
+      "title":"Access Denied",
+      "url":"http://issworld.local/en/sitecore/shell/shared/error-pages/403"
     },
     {
-      country: "content",
-      year: 2020,
-      description: "",
-      title: "",
-      url: "http://issworld.local/en/sitecore/shell/shared/error-pages/404",
+      "country":"content",
+      "year":2020,"description":"",
+      "title":"",
+      "url":"http://issworld.local/en/sitecore/shell/shared/error-pages/404"
     },
     {
-      country: "content",
-      year: 2020,
-      description: "",
-      title: "Server Error",
-      url: "http://issworld.local/en/sitecore/shell/shared/error-pages/500",
+      "country":"content",
+      "year":2020,
+      "description":"",
+      "title":"Server Error",
+      "url":"http://issworld.local/en/sitecore/shell/shared/error-pages/500"
     },
     {
-      country: "",
-      year: 1,
-      description: "",
-      title: "$name",
-      url: "/en/news-item/__standard-values",
+      "country":"",
+      "year":1,
+      "description":"",
+      "title":"$name",
+      "url":"/en/news-item/__standard-values"
     },
     {
-      country: "Spain",
-      year: 2020,
-      description: "",
-      title: "",
-      url: "http://es.issworld.local/en",
-    },
+      "country":"Spain",
+      "year":2020,
+      "description":"",
+      "title":"",
+      "url":"http://es.issworld.local/en"
+    }
   ],
-  facets: {
-    country: [
-      { label: "Global", value: "110d559fdea542ea9c1c8a5df7e70ef9", count: 15 },
-      { label: "Spain", value: "37382564fd53459e99c12544979dc765", count: 4 },
-      { label: "Content", value: "0de95ae441ab4d019eb067441b7c2450", count: 3 },
+  "facets":{
+    "country":[
       {
-        label: "00000000000000000000000000000000",
-        value: "00000000000000000000000000000000",
-        count: 1,
+        "label":"Global",
+        "value":"110d559fdea542ea9c1c8a5df7e70ef9",
+        "count":15
       },
+      {
+        "label":"Spain",
+        "value":"37382564fd53459e99c12544979dc765",
+        "count":4
+      },
+      {
+        "label":"Content",
+        "value":"0de95ae441ab4d019eb067441b7c2450",
+        "count":3
+      },
+      {
+        "label":"00000000000000000000000000000000",
+        "value":"00000000000000000000000000000000",
+        "count":1
+      }
     ],
-    year: [{ label: "2020", value: "2020", count: 22 }],
+    "year":[
+      {
+        "label":"2020",
+        "value":"2020",
+        "count":22
+      }
+    ]
   },
-  totalResults: 23,
+  "totalResults":23
 }
