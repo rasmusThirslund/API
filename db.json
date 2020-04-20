@@ -7,69 +7,6 @@
       "One of the world's leading facility services companies",
       "title":"ISS Global",
       "url":"http://issworld.local/en"
-    },
-    {
-      "country":"Global",
-      "year":2020,
-      "description":"Get your questions answered",
-      "title":"Support",
-      "url":"http://issworld.local/en/about/internal/support"
-    },
-    {
-      "country":"Global",
-      "year":2020,
-      "description":"",
-      "title":"Download whitepaper",
-      "url":"http://issworld.local/en/about/contact-us/download-whitepaper"
-    },
-    {
-      "country":"Global",
-      "year":2020,
-      "description":"",
-      "title":"",
-      "url":"http://issworld.local/en/about/contact-us/contact-us"
-    },
-    {
-      "country":"Global",
-      "year":2020,
-      "description":"",
-      "title":"News Item",
-      "url":"/en/news/2020/03/19/news-item"
-    },
-    {
-      "country":"content",
-      "year":2020,
-      "description":"",
-      "title":"Access Denied",
-      "url":"http://issworld.local/en/sitecore/shell/shared/error-pages/403"
-    },
-    {
-      "country":"content",
-      "year":2020,"description":"",
-      "title":"",
-      "url":"http://issworld.local/en/sitecore/shell/shared/error-pages/404"
-    },
-    {
-      "country":"content",
-      "year":2020,
-      "description":"",
-      "title":"Server Error",
-      "url":"http://issworld.local/en/sitecore/shell/shared/error-pages/500"
-    },
-    {
-      "country":"",
-      "year":1,
-      "description":"",
-      "title":"$name",
-      "url":"/en/news-item/__standard-values"
-    },
-    {
-      "country":"Spain",
-      "year":2020,
-      "description":"",
-      "title":"",
-      "url":"http://es.issworld.local/en"
     }
   ]
-  
 }
